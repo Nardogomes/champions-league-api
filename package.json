@@ -1,0 +1,27 @@
+{
+  "name": "champions-league-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dist": "tsup src",
+    "start:dev": "tsx src/server.ts",
+    "start:watch": "tsx watch src/server.ts",
+    "start:dist": "npm run dist && node dist/src/index.js"
+  },
+  "keywords": [
+    "Node",
+    "API"
+  ],
+  "author": "Ednardo Gomes",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}

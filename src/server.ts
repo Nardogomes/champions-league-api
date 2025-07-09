@@ -1,13 +1,8 @@
 import express, { json, Request, Response } from "express"
+import { createApp } from "./app"
 
-const app = express()
-
-app.use(json())
+const app = createApp()
 
 const port = process.env.PORT
-
-app.get("/", (req: Request, res: Response) => {
-  res.status(200).send("hello world")
-})
 
 app.listen(port, () => console.log(`Server is runnig at port ${port}`))

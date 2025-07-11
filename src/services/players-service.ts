@@ -1,3 +1,5 @@
+import { response } from "express"
+import { PlayerModel } from "../models/player-model"
 import * as findAllPlayers from "../repositories/players-repository"
 import * as HttpResponse from "../utils/http-helper"
 
@@ -24,6 +26,19 @@ export const getPlayerByIdService = async (id: number) => {
     response = await HttpResponse.ok(data)
   } else {
     response = await HttpResponse.noContent()
+  }
+
+  return response
+}
+
+export const createPlayerService = async (player: PlayerModel) => {
+  let response = null
+
+  if(Object.keys(player).length !== 0) {
+    await findAllPlayers.insertPlayer(player)
+    response = HttpResponse.created()
+  } else {
+    response = HttpResponse.badRequest()
   }
 
   return response

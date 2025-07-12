@@ -24,6 +24,6 @@ export const noContent = async (): Promise<HttpResponse> => {
 export const badRequest = async (): Promise<HttpResponse> => {
   return {
     statusCode: 400,
-    body: "Erro ao cadastrar player."
+    body: "Erro ao realizar operação."
   }
 }

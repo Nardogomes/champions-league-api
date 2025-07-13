@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid Club de Fútbol",
+    "cidade": "Madrid",
+    "pais": "Espanha",
+    "fundação": "1902-05-06"
+  },
+  {
+    "id": 2,
+    "name": "Manchester City Football Club",
+    "cidade": "Manchester",
+    "pais": "Inglaterra",
+    "fundação": "1880-11-13"
+  },
+  {
+    "id": 3,
+    "name": "FC Bayern München",
+    "cidade": "Munique",
+    "pais": "Alemanha",
+    "fundação": "1900-02-27"
+  },
+  {
+    "id": 4,
+    "name": "Paris Saint-Germain Football Club",
+    "cidade": "Paris",
+    "pais": "França",
+    "fundação": "1970-08-12"
+  },
+  {
+    "id": 5,
+    "name": "Liverpool Football Club",
+    "cidade": "Liverpool",
+    "pais": "Inglaterra",
+    "fundação": "1892-06-03"
+  },
+  {
+    "id": 6,
+    "name": "Inter Milan",
+    "cidade": "Milão",
+    "pais": "Itália",
+    "fundação": "1908-03-09"
+  },
+  {
+    "id": 7,
+    "name": "Borussia Dortmund",
+    "cidade": "Dortmund",
+    "pais": "Alemanha",
+    "fundação": "1909-12-19"
+  },
+  {
+    "id": 8,
+    "name": "RB Leipzig",
+    "cidade": "Leipzig",
+    "pais": "Alemanha",
+    "fundação": "2009-05-19"
+  },
+  {
+    "id": 9,
+    "name": "FC Barcelona",
+    "cidade": "Barcelona",
+    "pais": "Espanha",
+    "fundação": "1899-11-29"
+  },
+  {
+    "id": 10,
+    "name": "Bayer 04 Leverkusen",
+    "cidade": "Leverkusen",
+    "pais": "Alemanha",
+    "fundação": "1904-07-04"
+  },
+  {
+    "id": 11,
+    "name": "Atlético Madrid",
+    "cidade": "Madrid",
+    "pais": "Espanha",
+    "fundação": "1903-04-26"
+  },
+  {
+    "id": 12,
+    "name": "Atalanta Bergamasca Calcio",
+    "cidade": "Bérgamo",
+    "pais": "Itália",
+    "fundação": "1907-10-17"
+  },
+  {
+    "id": 13,
+    "name": "Juventus Football Club",
+    "cidade": "Turim",
+    "pais": "Itália",
+    "fundação": "1897-11-01"
+  },
+  {
+    "id": 14,
+    "name": "Sporting Clube de Portugal",
+    "cidade": "Lisboa",
+    "pais": "Portugal",
+    "fundação": "1906-07-01"
+  },
+  {
+    "id": 15,
+    "name": "Aston Villa Football Club",
+    "cidade": "Birmingham",
+    "pais": "Inglaterra",
+    "fundação": "1874-11-21"
+  },
+  {
+    "id": 16,
+    "name": "Milan",
+    "cidade": "Milão",
+    "pais": "Itália",
+    "fundação": "1899-12-16"
+  },
+  {
+    "id": 17,
+    "name": "Benfica",
+    "cidade": "Lisboa",
+    "pais": "Portugal",
+    "fundação": "1904-02-28"
+  },
+  {
+    "id": 18,
+    "name": "Feyenoord Rotterdam",
+    "cidade": "Rotterdam",
+    "pais": "Países Baixos",
+    "fundação": "1908-07-19"
+  },
+  {
+    "id": 19,
+    "name": "PSV Eindhoven",
+    "cidade": "Eindhoven",
+    "pais": "Países Baixos",
+    "fundação": "1913-08-31"
+  },
+  {
+    "id": 20,
+    "name": "Bologna FC 1909",
+    "cidade": "Bolonha",
+    "pais": "Itália",
+    "fundação": "1909-10-03"
+  },
+  {
+    "id": 21,
+    "name": "Girona FC",
+    "cidade": "Girona",
+    "pais": "Espanha",
+    "fundação": "1930-07-23"
+  },
+  {
+    "id": 22,
+    "name": "VfB Stuttgart",
+    "cidade": "Stuttgart",
+    "pais": "Alemanha",
+    "fundação": "1893-09-09"
+  },
+  {
+    "id": 23,
+    "name": "Sturm Graz",
+    "cidade": "Graz",
+    "pais": "Áustria",
+    "fundação": "1909-05-10"
+  },
+  {
+    "id": 24,
+    "name": "Stade Brestois 29",
+    "cidade": "Brest",
+    "pais": "França",
+    "fundação": "1950-08-18"
+  },
+  {
+    "id": 25,
+    "name": "Celtic Football Club",
+    "cidade": "Glasgow",
+    "pais": "Escócia",
+    "fundação": "1887-11-06"
+  },
+  {
+    "id": 26,
+    "name": "Red Star Belgrade",
+    "cidade": "Belgrado",
+    "pais": "Sérvia",
+    "fundação": "1945-03-04"
+  },
+  {
+    "id": 27,
+    "name": "Club Brugge KV",
+    "cidade": "Bruges",
+    "pais": "Bélgica",
+    "fundação": "1891-11-13"
+  },
+  {
+    "id": 28,
+    "name": "Young Boys",
+    "cidade": "Berna",
+    "pais": "Suíça",
+    "fundação": "1898-03-14"
+  },
+  {
+    "id": 29,
+    "name": "RB Salzburg",
+    "cidade": "Salzburgo",
+    "pais": "Áustria",
+    "fundação": "1933-09-13"
+  },
+  {
+    "id": 30,
+    "name": "Slovan Bratislava",
+    "cidade": "Bratislava",
+    "pais": "Eslováquia",
+    "fundação": "1919-05-03"
+  },
+  {
+    "id": 31,
+    "name": "Dinamo Zagreb",
+    "cidade": "Zagreb",
+    "pais": "Croácia",
+    "fundação": "1945-04-09"
+  },
+  {
+    "id": 32,
+    "name": "Shakhtar Donetsk",
+    "cidade": "Donetsk",
+    "pais": "Ucrânia",
+    "fundação": "1936-05-24"
+  },
+  {
+    "id": 33,
+    "name": "Lille OSC",
+    "cidade": "Lille",
+    "pais": "França",
+    "fundação": "1944-09-23"
+  },
+  {
+    "id": 34,
+    "name": "Monaco",
+    "cidade": "Monte Carlo",
+    "pais": "Mónaco",
+    "fundação": "1924-08-23"
+  },
+  {
+    "id": 35,
+    "name": "Slavia Prague",
+    "cidade": "Praga",
+    "pais": "República Tcheca",
+    "fundação": "1892-11-02"
+  },
+  {
+    "id": 36,
+    "name": "Olympique de Marseille",
+    "cidade": "Marselha",
+    "pais": "França",
+    "fundação": "1899-06-31"
+  }
+]
